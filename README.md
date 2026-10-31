@@ -2,7 +2,7 @@
 
 Team Name and Names of the Contributors (sub-task-1)
 Team Name: Yield Curve
-Contributors: 
+Contributors: Jefferson Feaganes
 
 Objective and Motivation: (sub-task-2)
 
