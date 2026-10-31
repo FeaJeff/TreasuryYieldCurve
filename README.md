@@ -40,11 +40,11 @@ Conclusions: (sub-task-7)
 
 Actions that need to be completed:
 
-[ ] Download and clean Treasury data.
+Download and clean Treasury data.
 
-[ ] Perform statistical calculations and tests.
+Perform statistical calculations and tests.
 
-[ ] Generate graphs and analyze results.
+Generate graphs and analyze results.
 
 References/Source files:
 
